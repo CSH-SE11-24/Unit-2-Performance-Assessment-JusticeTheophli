@@ -1,0 +1,2 @@
+### Going to Ghana 3
+My storyline is about a person (user) going to Ghana and finding out that they end up at the wrong destination. They will be instructed to make a packing list and choose what airline to travel with before flying and ending up at the wrong destination which would be Morraco. When the user ends up at the wrong destination they would have to choose wheather they will stay in Morocco, take a flight back to new york or stay in New York for the reminder of their stay. 
